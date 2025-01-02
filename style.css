@@ -1,0 +1,14 @@
+h1 {
+    background-color: grey;
+    color: white;
+    padding: 5rem;
+    margin: 5rem;
+}
+p {
+    background-color: teal;
+    color: white;
+    padding: 5rem;
+    margin: 5rem;
+    font-size: 35px;
+    font-weight: 600;
+}
